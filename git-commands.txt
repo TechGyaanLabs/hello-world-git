@@ -1,6 +1,15 @@
 
 clone:
     git clone <repository-url>
+    
 status:
     git status // Check the status of the working directory and staging area
 
+commit:
+    git commit -m "commit message" // Record changes to the repository
+
+push:
+    git push origin <branch-name> // Upload local changes to the remote repository
+
+pull:
+    git pull origin <branch-name> // Fetch and merge changes from the remote repository
