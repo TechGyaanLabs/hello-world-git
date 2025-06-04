@@ -7,6 +7,7 @@ status:
 
 commit:
     git commit -m "commit message" // Record changes to the repository
+   // Provide valid messsage when code is committing to repo
 
 push:
     git push origin <branch-name> // Upload local changes to the remote repository
