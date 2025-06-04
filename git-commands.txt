@@ -1,0 +1,6 @@
+
+clone:
+    git clone <repository-url>
+status:
+    git status // Check the status of the working directory and staging area
+
